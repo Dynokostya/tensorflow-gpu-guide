@@ -1,3 +1,7 @@
+VERY IMPORTANT!!!!!!
+sudo apt-get -y install cuda-toolkit-11-7
+!!!!!
+
 ##################
 Cuda and cuDNN:
 https://www.tensorflow.org/install/source#gpu_support_2
